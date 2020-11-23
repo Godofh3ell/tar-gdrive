@@ -8,9 +8,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/deaduserbot/mirror.git",
-    "website": "https://github.com/deaduserbot/mirror/tree/maater",
-    "success_url": "https://github.com/deaduserbot/mirror/blob/master/README.md",
+    "repository": "https://github.com/deaduserbot/tar-gdrive/mirror.git",
+    "website": "https://github.com/deaduserbot/tar-gdrive/tree/maater",
+    "success_url": "https://github.com/deaduserbot/tar-gdrive/blob/master/README.md",
     "stack": "container",
     "env": {
       "ENV": {
