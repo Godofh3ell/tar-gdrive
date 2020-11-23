@@ -65,6 +65,8 @@ Aria-telegram-mirror-bot is now written in TypeScript. If you are migrating from
 
 ## Installation
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/deaduserbot/tar-gdrive)
+
 1. Install TypeScript with `sudo npm install -g typescript`
 
 2. Clone the repo:
